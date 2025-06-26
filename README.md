@@ -13,13 +13,15 @@ This project analyzes a real-world insurance dataset using Python to explore the
 
 The dataset contains:
 
-- `age`: Age of the policyholder  
-- `sex`: Gender  
-- `bmi`: Body Mass Index  
-- `children`: Number of dependents  
-- `smoker`: Smoking status  
-- `region`: Residential region  
-- `charges`: Medical insurance cost billed
+| **Column** | **Description**                          |
+| ---------- | ---------------------------------------- |
+| `age`      | Age of the individual                    |
+| `sex`      | Gender                                   |
+| `bmi`      | Body Mass Index                          |
+| `children` | Number of dependents                     |
+| `smoker`   | Smoker status (`yes` or `no`)            |
+| `region`   | Region in the US                         |
+| `charges`  | Medical insurance cost (target variable) |
 
 ---
 
@@ -84,7 +86,7 @@ I am always open to learning and improving. If you have any suggestions, feedbac
 ## 🙋‍♀️ About the Author
 
 **Vandana L**  
-Aspiring Data Analyst | Skilled in Power BI, SQL, Excel, and Python  
+Aspiring Data Analyst | Skilled in Power BI, SQL, Excel, Python Libraries and Python  
 📧 Email: vandana91480gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/vandana-l-6a37a1233)
 
